@@ -7,6 +7,7 @@
 [node name="World" type="Node"]
 
 [node name="Player" parent="." instance=ExtResource( 1 )]
+position = Vector2( 96, 224 )
 
 [node name="WorldComplete" parent="." instance=ExtResource( 2 )]
 position = Vector2( 480, 224 )
